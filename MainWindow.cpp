@@ -33,7 +33,7 @@ void MainWindow::drawMain()
 
     if (data.empty())
     {
-        // Handle empty data if needed
+         
     }
     else
     {
